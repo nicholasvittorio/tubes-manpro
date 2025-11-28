@@ -1,9 +1,9 @@
 Anggota Tim & Pembagian Tugas
 
-6182201027 / Nicholas Davin Vittorio (PM) 
-6182201012 / Yosafat Sanjaya Widjaja 
-6182201045 / Christopher  
-6182201099 / Muhammad Gibran Alfarizi
+- 6182201027 / Nicholas Davin Vittorio (PM) 
+- 6182201012 / Yosafat Sanjaya Widjaja 
+- 6182201045 / Christopher  
+- 6182201099 / Muhammad Gibran Alfarizi
 
 
 Frontend Developer
