@@ -39,7 +39,7 @@ sprint-3   -> Budgeting + Laporan Event
 
 
 
-## 📦 Folder Struktur
+Folder Struktur
 ```
 /src
   /backend
@@ -48,5 +48,5 @@ sprint-3   -> Budgeting + Laporan Event
 README.md
 ```
 
-## 📜 Lisensi
+Lisensi
 Proyek untuk keperluan akademik – tidak untuk publikasi.
