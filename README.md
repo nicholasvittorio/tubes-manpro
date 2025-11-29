@@ -54,7 +54,7 @@
 * `sprint-1` → Login + Asisten + Vendor
 * `sprint-2` → Event + Pilih Vendor
 * `sprint-3` → Budgeting + Laporan Event
-* `sprint-4` → Perbaikan / Gimmick
+* `sprint-4` → Perbaikan
 * `sprint-5` → Integrasi & Merge
 
 ---
